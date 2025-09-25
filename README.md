@@ -4,7 +4,7 @@ An enterprise-grade AI-powered leaf disease detection system featuring a dual-in
 
 ## System Demo
 
-![Leaf Disease Detection Demo](https://github.com/shukur-alom/leaf-diseases-detect/blob/main/Media/video.gif)
+![Leaf Disease Detection Demo](https://github.com/GauravMishra9211/leaf-diseases-detection-system/blob/main/Media/video.gif)
 
 *Experience the power of AI-driven plant health analysis in action*
 
@@ -56,7 +56,7 @@ The **DiseaseAnalysisResult DataClass** serves as a structured container for dis
 
 ### 1. Repository Setup
 **Clone the repository:**
-- Run: git clone https://github.com/shukur-alom/leaf-diseases-detect.git
+- Run: git clone https:[https://github.com/GauravMishra9211/leaf-diseases-detection-system.git]
 - Navigate to: cd leaf-diseases-detect/Front
 
 **Create and activate virtual environment (recommended):**
