@@ -8,7 +8,7 @@ import requests
 
 # Set Streamlit theme to light and wide mode
 st.set_page_config(
-    page_title="Leaf Disease Detection",
+    page_title="AgriVision AI – Leaf Disease Detection System",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
