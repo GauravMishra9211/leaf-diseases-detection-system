@@ -75,7 +75,7 @@ st.markdown("""
 st.markdown("""
     <div style='text-align: center; margin-top: 1em;'>
         <span style='font-size:2.5em;'>🌿</span>
-        <h1 style='color: #1565c0; margin-bottom:0;'>Leaf Disease Detection</h1>
+        <h1 style='color: #1565c0; margin-bottom:0;'>AgriVision AI – Leaf Disease Detection System</h1>
         <p style='color: #616161; font-size:1.15em;'>Upload a leaf image to detect diseases and get expert recommendations.</p>
     </div>
 """, unsafe_allow_html=True)
